@@ -1,0 +1,1 @@
+print('que podemos hacer a partir de ahora')
